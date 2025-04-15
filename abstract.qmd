@@ -2,6 +2,7 @@
 title: "abstract"
 format: html
 editor: visual
+authors: Jakob
 ---
 
 ## Quarto
