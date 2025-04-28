@@ -2,7 +2,7 @@
 title: "abstract"
 format: html
 editor: visual
-authors: Jakob, Tigran
+authors: Jakob, Tigran, Paul
 ---
 
 ## Quarto
