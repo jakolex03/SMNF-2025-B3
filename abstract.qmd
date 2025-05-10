@@ -1,27 +1,28 @@
 ---
-title: "abstract"
-format: html
+title: "Titel"
 editor: visual
 authors: Jakob, Tigran, Paul, Anselm
+date: today
+format: 
+  html: 
+    number-sections: true
+  pdf: 
+    number-sections: true
+    papersize: a4
+    fontsize: 12pt
+    toc: true
+execute: 
+  echo: true
 ---
 
-## Quarto
+**GitHub Repository:** <https://github.com/jakolex03/SMNF-2025-B3> <br>**Git Commit Hash:** 290fbc1
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# Einleitung
 
-## Running Code
+# Literaturübersicht
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# Methode
 
-```{r}
-1 + 1
-```
+# Ergebnisse
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+# Diskussion
