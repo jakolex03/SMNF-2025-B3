@@ -11,18 +11,30 @@ format:
     papersize: a4
     fontsize: 12pt
     toc: true
-execute: 
-  echo: true
 ---
 
-**GitHub Repository:** <https://github.com/jakolex03/SMNF-2025-B3> <br>**Git Commit Hash:** 290fbc1
+**GitHub Repository:** <https://github.com/jakolex03/SMNF-2025-B3>
 
-# Einleitung
+**Aktueller** **Git Commit Hash:**
 
-# Literaturübersicht
+```{r}
+#| label: Commit Hash
+#| echo: false
+commit_hash <- system("git rev-parse --short=7 HEAD", intern = TRUE)
+commit_hash
 
-# Methode
+```
 
-# Ergebnisse
+# Code of Conduct:
 
-# Diskussion
+# Einleitung:
+
+# Literaturübersicht:
+
+# Methode:
+
+# Ergebnisse:
+
+# Diskussion:
+
+# Literaturverzeichnis:
