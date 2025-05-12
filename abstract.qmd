@@ -25,11 +25,13 @@ commit_hash
 
 ```
 
-# Code of Conduct:
+Code of Conduct:
 
 # Einleitung:
 
 # Literaturübersicht:
+
+Wir benutzen für unsere Studie als Literatur die folgenden Werke: "Verunsicherte Öffentlichkeit"(Bertelsmann Stiftung, 2024) "The Implied Truth Effect"(G. Pennycook, A. Bear, E.T. Collins und D. G. Rand, 2021) und "The Economics of Fake News"(N.Kshetri und J. Voas, 2017). "Verunsicherte Öffentlichkeit trifft unser Thema ziemlich genau. Es geht in der Studie um die Verbreitung von Desinformationen im Jahre 2024, kurz vor den Wahlen in den USA und Deutschland. Dabei wird erforscht wie gut Menschen Desinformation erkennen. Außerdem wird die Wichtigkeit guter Medienkompetenz betont und Ansätze vorgeschlagen, wie man Desinformation mit KI kennzeichnen könnte, damit Menschen diese einfach erkennen können und sie sich nicht viral verbreiten. Das passt sehr gut zu unserer übergeordneten Forschungsfrage, welche sich damit beschäftigt, wie man KI am besten zum Erkennen und Kennzeichnen von Misinformation auf Social Media benutzen kann. Als nächstes benutzen wir: "The Implied Truth Effect". Diese Studie untersucht die Wirkung der Markierung von Desinformationen und untersucht die Hypothese, welche sagt, dass durch eine Markierung der "Implied Truth Effect entsteht und Nutzer davon ausgehen, dass dann alles, was nicht gekennzeichnet wird, wahr ist. Die Studie stellte fest, dass nicht markierte, falsche Meldungen ungewollt als glaubwürdig wahrgenommen wurden. Das sollten wir bei unserer Studie berücksichtigen um die bestmöglichen Ansätze zu entwickeln, die auch dieses Problem verhindern. Als letztes nutzen wir "The Economics of Fake News". Kshetri und Voas (2017) untersuchen in dieser Studie die Kosten und den Nutzen der Verbreitung von Fake News. Außerdem die wirtschaftlichen, politischen und sozialen Folgen dieser Fehlinformationen. Die Verfasser\*innen bringen vor, dass Produzenten, Konsumenten und Plattformen ein selbstverstärkendes System bilden, das nur schwer zu durchbrechen ist. Sie bieten unterschiedliche Strategien an, um dieses System zu unterbrechen und die Kosten-Nutzen-Struktur der Verbreitung von Fake News zu reduzieren. Für uns ist es entscheident, dass wir die Beweggründe und Vorzüge der Verbreitung von Fake News verstehen.
 
 # Methode:
 
